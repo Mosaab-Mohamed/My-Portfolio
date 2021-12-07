@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.7374c521.chunk.css",
-    "main.js": "./static/js/main.c9309018.chunk.js",
-    "main.js.map": "./static/js/main.c9309018.chunk.js.map",
+    "main.css": "./static/css/main.348d4c02.chunk.css",
+    "main.js": "./static/js/main.7f2fd82a.chunk.js",
+    "main.js.map": "./static/js/main.7f2fd82a.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.b527c84f.js",
     "runtime-main.js.map": "./static/js/runtime-main.b527c84f.js.map",
     "static/js/2.32093aca.chunk.js": "./static/js/2.32093aca.chunk.js",
     "static/js/2.32093aca.chunk.js.map": "./static/js/2.32093aca.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.7374c521.chunk.css.map": "./static/css/main.7374c521.chunk.css.map",
+    "static/css/main.348d4c02.chunk.css.map": "./static/css/main.348d4c02.chunk.css.map",
     "static/js/2.32093aca.chunk.js.LICENSE.txt": "./static/js/2.32093aca.chunk.js.LICENSE.txt",
     "static/media/app.scss": "./static/media/Poppins-Regular.e09d5cf4.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.b527c84f.js",
     "static/js/2.32093aca.chunk.js",
-    "static/css/main.7374c521.chunk.css",
-    "static/js/main.c9309018.chunk.js"
+    "static/css/main.348d4c02.chunk.css",
+    "static/js/main.7f2fd82a.chunk.js"
   ]
 }
